@@ -7,9 +7,9 @@ A small Express app (using Node's built-in `node:sqlite`) with **10 known securi
 | Repo | What it is |
 |---|---|
 | **vulnlab-js-basics** (this repo) | Vulnerable Express app |
-| [vulnlab-python-basics](https://github.com/OWNER/vulnlab-python-basics) | The same idea in Flask |
-| [vuln-scan-skill](https://github.com/OWNER/vuln-scan-skill) | Codex agent skill that scans it |
-| [vuln-scan-workshop](https://github.com/OWNER/vuln-scan-workshop) | Notebook that walks through each stage and scores the results |
+| [vulnlab-python-basics](https://github.com/karthikeyanchand/vulnlab-python-basics) | The same idea in Flask |
+| [vuln-scan-skill](https://github.com/karthikeyanchand/vuln-scan-skill) | Codex agent skill that scans it |
+| [vuln-scan-workshop](https://github.com/karthikeyanchand/vuln-scan-workshop) | Notebook that walks through each stage and scores the results |
 
 ## What's planted
 
